@@ -1,0 +1,94 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e52]:
+          - generic [ref=e53]:
+            - img [ref=e56]
+            - generic [ref=e60]: Create a pricing card component
+          - generic [ref=e61]:
+            - img [ref=e64]
+            - generic [ref=e68]:
+              - paragraph [ref=e70]: This is a static response. You can place an Anthropic API key in the .env file to use the Anthropic API for component generation. Let me create an App.jsx file to display the component.
+              - generic [ref=e71]:
+                - img [ref=e73]
+                - generic [ref=e76]: Creating App.jsx
+              - separator [ref=e77]
+              - paragraph [ref=e79]: I'll create a Card component for you.
+              - generic [ref=e80]:
+                - img [ref=e82]
+                - generic [ref=e85]: Creating Card.jsx
+              - separator [ref=e86]
+              - paragraph [ref=e88]: Now let me enhance the component with bette
+              - generic [ref=e89]:
+                - img [ref=e90]
+                - generic [ref=e92]: Generating...
+        - generic [ref=e19]:
+          - textbox "Describe the React component you want to create..." [disabled] [ref=e20]
+          - button [disabled] [ref=e21]:
+            - img [ref=e22]
+    - separator [ref=e25]
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - tablist [ref=e30]:
+          - tab "Preview" [selected] [ref=e31]
+          - tab "Code" [ref=e32]
+        - generic [ref=e33]:
+          - button "Sign In" [ref=e34]
+          - button "Sign Up" [ref=e35]
+      - iframe [ref=e93]:
+        - generic [ref=f4e4]:
+          - generic [ref=f4e5]:
+            - paragraph [ref=f4e6]: Featured Products
+            - heading "Built for builders." [level=1] [ref=f4e7]
+          - generic [ref=f4e8]:
+            - generic [ref=f4e9]:
+              - generic [ref=f4e10]:
+                - img "Horizon Pro" [ref=f4e11]
+                - generic [ref=f4e12]: Productivity
+              - generic [ref=f4e13]:
+                - generic [ref=f4e14]:
+                  - heading "Horizon Pro" [level=3] [ref=f4e15]
+                  - generic [ref=f4e16]: $49/month
+                - paragraph [ref=f4e17]: The professional toolkit for teams who ship fast. Everything you need, nothing you don't.
+                - generic [ref=f4e18]:
+                  - img [ref=f4e19]
+                  - img [ref=f4e21]
+                  - img [ref=f4e23]
+                  - img [ref=f4e25]
+                  - img [ref=f4e27]
+                - button "Add to Cart" [ref=f4e29] [cursor=pointer]
+            - generic [ref=f4e30]:
+              - generic [ref=f4e31]:
+                - img "Atlas Studio" [ref=f4e32]
+                - generic [ref=f4e33]: Design
+              - generic [ref=f4e34]:
+                - generic [ref=f4e35]:
+                  - heading "Atlas Studio" [level=3] [ref=f4e36]
+                  - generic [ref=f4e37]: $79/month
+                - paragraph [ref=f4e38]: Vector editing and prototyping in one canvas. From wireframe to pixel-perfect in minutes.
+                - generic [ref=f4e39]:
+                  - img [ref=f4e40]
+                  - img [ref=f4e42]
+                  - img [ref=f4e44]
+                  - img [ref=f4e46]
+                  - img [ref=f4e48]
+                - button "Add to Cart" [ref=f4e50] [cursor=pointer]
+            - generic [ref=f4e51]:
+              - generic [ref=f4e52]:
+                - img "Cipher Guard" [ref=f4e53]
+                - generic [ref=f4e54]: Security
+              - generic [ref=f4e55]:
+                - generic [ref=f4e56]:
+                  - heading "Cipher Guard" [level=3] [ref=f4e57]
+                  - generic [ref=f4e58]: $29/month
+                - paragraph [ref=f4e59]: End-to-end encryption for your entire stack. Deploy in under five minutes, sleep soundly.
+                - generic [ref=f4e60]:
+                  - img [ref=f4e61]
+                  - img [ref=f4e63]
+                  - img [ref=f4e65]
+                  - img [ref=f4e67]
+                  - img [ref=f4e69]
+                - button "Add to Cart" [ref=f4e71] [cursor=pointer]
+  - alert [ref=e46]

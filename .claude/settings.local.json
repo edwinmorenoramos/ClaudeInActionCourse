@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(npm audit *)",
+      "Bash(node -e \"console.log\\(require\\('./node_modules/next/node_modules/postcss/package.json'\\).version\\)\")",
+      "Bash(git stash *)",
+      "mcp__playwright",
+      "Bash(gh --version)"
+    ]
+  }
+}
